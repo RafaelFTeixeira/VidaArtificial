@@ -1,0 +1,11 @@
+body{
+    background-color: black;
+}
+#canvas{
+    background-color: tan;
+    width: 1000px;
+    height: 600px;
+    margin: auto;
+    position: absolute;
+    left: 10%;
+}
